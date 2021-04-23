@@ -1,7 +1,6 @@
 # KeXin's Kattis Stuffies
 
 ## Completions
-[i]: 1
 | S\N | Problem        | Date of Completion  |
 | ----|:--------------:| -------------------:|
 | 1 | Hello World! | 2020-05-15 18:13:19 |
