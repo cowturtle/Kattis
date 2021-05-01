@@ -1,4 +1,6 @@
-# KeXin's Kattis Stuffies\
+# KeXin's Kattis Stuffies
+
+---
 
 ## Completions
 | S\N | Problem        | DateTime of Completion  |
@@ -551,7 +553,9 @@
 | 546 | Greetings! | 2020-11-23 19:14:29 |
 | 547 | Stopwatch | 2021-04-30 21:19:22 |
 | 548 | Laptop Sticker | 2021-04-30 21:28:41 |
-| 549 | Jack-O'-Lantern Juxtaposition | 2021-04-30 21:43:04 |\
+| 549 | Jack-O'-Lantern Juxtaposition | 2021-04-30 21:43:04 |
+
+---
 
 ## Help :(
 1. Flower Trails
