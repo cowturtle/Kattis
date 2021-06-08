@@ -1,7 +1,3 @@
-/*
- * @author Theodoric Keith Lim
- */
-
 class Template
 {
     public void run()
