@@ -600,6 +600,7 @@
 | 592 | Keystrokes | 2021-06-08 11:24:25 |
 | 593 | Powers of 2 (Easy) | 2021-06-08 13:41:52 |
 | 594 | Logo | 2021-06-14 10:46:03 |
+| 595 | Fun House | 2021-06-29 16:39:01 |
 
 ---
 
@@ -608,8 +609,5 @@
 1. Dreamer
 1. Baby Names
 1. Tri Tiling
-1. AB Problem
-1. Sim
 1. Distributing Ballot Boxes
-1. Teque
 1. Doctor Kattis
