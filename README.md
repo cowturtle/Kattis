@@ -1,4 +1,4 @@
-# KeXin's Kattis Stuffies
+# Kattis Stuffies
 
 ---
 
